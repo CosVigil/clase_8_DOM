@@ -11,3 +11,6 @@ if (resultado==true){
 document.querySelector("h3").innerText="¡Qué alegría que quieras seguir con tu visita por este maravilloso sitio!"
 }
 
+let nombre = prompt("¿Como te llamas?")
+
+let edad = prompt("¿Cuantos años tenes?")
