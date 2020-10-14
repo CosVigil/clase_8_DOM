@@ -2,8 +2,8 @@
 alert("Bienvenidos a mi sitio!!!")
 
 //2
-let = confirm("¿Listo para proceder?")
-if (resultado==false) {
+let resultado = confirm("¿Listo para proceder?")
+if (resultado==false){
 document.querySelector("h2").innerText="Lamentamos que no quieras continuar tu visita por este sitio increíble."
 } 
 
